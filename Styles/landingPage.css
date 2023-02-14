@@ -94,7 +94,7 @@ https://loading.io/asset/630074
 }
 
 .skillsGrid {
-  background-color: bisque;
+  background-color: #87CEEB;
   box-shadow: inset 0px 0px 50px -24px rgba(0,0,0,0.42);
 
   height: 100%;
@@ -174,7 +174,7 @@ https://loading.io/asset/630074
 #projects {
     height: 100vh;
     width: 100%;
-    background-color: lightgray;
+    background-color:  #83a3b2;
 }
 
 .projectsGrid {
@@ -264,7 +264,7 @@ https://loading.io/asset/630074
 #certifications {
   height: 100vh;
   width: 100%;
-  background-color: lightblue;
+  background-color: #656255;
 }
 
 .certGrid {
