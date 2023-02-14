@@ -57,7 +57,7 @@ https://loading.io/asset/630074
   height: 100%;
 
   display: grid;
-  grid-template-columns: 1fr 1fr;
+  grid-template-columns: 1fr 1.25fr;
   grid-template-rows: 1fr;
   grid-template-areas: 
     "selfPicture selfDescrip";
